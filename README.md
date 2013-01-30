@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 zf2-base-module
 ================
 
@@ -6,7 +5,7 @@ zf2-base-module
 
 
 
-Not ready to work. What to change : 
+Some things should be changed : 
 
 
 ### ./Module.php
@@ -53,9 +52,4 @@ Put the tests here following the itWorks example (which must be deleted)
 ### ./README.md
 
 Obviously edit me when all is done !
-=======
-zf2-skeleton-module
-===================
 
-ZF2 skeleton module for developpement
->>>>>>> 56bb00716d176d074c7df1ca5c1ee710d7eb143d
