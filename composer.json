@@ -1,0 +1,27 @@
+{
+    "name": "zeng/zeng-module",
+    "type": "library",
+    "description": "Default module",
+    "keywords": ["zend framework 2","default module"],
+    "homepage": "https://github.com/SneakyBobito/zf2-skeleton-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Soufiane Ghzal",
+            "email": "sghzal@gmail.com",
+            "homepage": "https://github.com/SneakyBobito",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "zendframework/zendframework": "2.*",
+        "zeng/zeng": "dev-master",
+        "phpunit/phpunit": "3.7.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "ModuleName\\": "src/"
+        }
+    }
+}
